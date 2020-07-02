@@ -1,3 +1,4 @@
+#hard coded version of Indian Flag
 from turtle import *
 speed(0)
 penup()
