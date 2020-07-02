@@ -1,3 +1,4 @@
+#prints an image of chess board.
 from turtle import *
 speed(0)
 penup()
